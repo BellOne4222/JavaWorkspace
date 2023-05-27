@@ -1,6 +1,6 @@
 package chap_01;
 
-public class _Quize_01 {
+public class _Quiz_01 {
     public static void main(String[] args) {
         // 버스 번호, 남은 시간, 남은 거리
         String busNo = "상암08";

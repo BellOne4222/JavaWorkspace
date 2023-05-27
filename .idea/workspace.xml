@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f23982eb-3524-4d0d-9891-426b60a39e64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_01_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_02_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_03_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_04_Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_05_ValuableNaming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_06_Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_07_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_Quize_01.java" afterDir="false" />
+    <list default="true" id="f23982eb-3524-4d0d-9891-426b60a39e64" name="Changes" comment="3/27">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_01_Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_02_Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_03_Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_04_Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_05_Operator5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_02/_Quiz_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_01_String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_02_String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_03_StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_04_EscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_03/_Quiz_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_Quize_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_01/_Quiz_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +36,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1fe23122-69aa-40de-a282-62102476e9d3" />
+        <option name="url" value="https://github.com/BellOne4222/JavaWorkspace.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -42,6 +64,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -56,6 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679897102627</updated>
     </task>
+    <task id="LOCAL-00001" summary="3/27">
+      <created>1679927669909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679927669909</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3/27" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/27" />
   </component>
 </project>
