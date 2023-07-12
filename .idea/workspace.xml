@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23982eb-3524-4d0d-9891-426b60a39e64" name="Changes" comment="7/6">
-      <change beforePath="$PROJECT_DIR$/src/chap_05_/_Quize_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_05_/_Quize_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_01_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_02_Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_03_Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_04_ParameterAndReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_05_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_06_WhenToUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_07_VariableScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_08_MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_06_/_Quiz_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688635661486</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7/6">
+      <option name="closed" value="true" />
+      <created>1688635781342</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688635781342</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
